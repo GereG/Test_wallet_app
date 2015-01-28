@@ -24,6 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.gereg.test_wallet.MainActivity" />
         </activity>
+        <activity
+            android:name=".WalletActivity"
+            android:label="@string/title_activity_wallet" >
+        </activity>
     </application>
 
 </manifest>
